@@ -11,18 +11,15 @@
 
 ## **My Anti Values**
 
-- Authority
-
-    Governmental, organizational, online, etc.
-
+- Authority (Governmental, organizational, online, etc.)
 - Hierarchy / Rules
 - Corporations (working in a company with 500+ emps)
 - Excessive richness / displayed wealth
 - Personal benefit at the cost of others
 - Power
 
-## Life **Mission: 
-*t**o enjoy the ride*
+## Life Mission: 
+**to enjoy the ride**
 
 Strategic components:
 
