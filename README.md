@@ -5,10 +5,7 @@
 - Family
 - Meritocracy
 - Technology & Innovation
-
-    Human brain is slow to evolve ⇒ we need tech to improve and get bigger things done
-
-- Not resisting / combating the Life
+- Not resisting / combating Life
 - Compassion
 - Open to changes
 
@@ -24,7 +21,8 @@
 - Personal benefit at the cost of others
 - Power
 
-## Life **Mission: *t**o enjoy the ride*
+## Life **Mission: 
+*t**o enjoy the ride*
 
 Strategic components:
 
@@ -40,7 +38,12 @@ Long-term: 5-15 years
 
 *To expedite and lead adoption of technology to enable decentralized algorithmic governance, finance, education and hiring, social networking.* 
 
-Relevant technologies: game theory, mechanism design, cryptography, blockchain, cryptocurrency, DAO & programmatic law, SSI.
+Relevant technologies: game theory, mechanism design, cryptography, blockchain, cryptocurrency, DAO & programmatic law, SSI and others that qualify:
+
+1. Hight growth potential
+2. Significant barriers for entry / low competition
+3. Impactful (10x+ improvement)
+4. Clear monetization path
 
 Tools to achieve this goal: 
 
