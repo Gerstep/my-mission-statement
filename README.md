@@ -11,46 +11,38 @@
 
 ## **My Anti Values**
 
-- Authority (Governmental, organizational, online, etc.)
+- Authority    
 - Hierarchy / Rules
-- Corporations (working in a company with 500+ emps)
 - Excessive richness / displayed wealth
 - Personal benefit at the cost of others
 - Power
 
-## Life Mission: 
-**to enjoy the ride**
+## Life **Mission: *t**o enjoy the ride*
 
 Strategic components:
 
-1. Work
-2. Health
-3. Family
+1. Health
+2. Family
+3. Work
 
-## Professional Strategic Priorities
+## Professional Goals
 
-Long-term: 5-15 years
+1. Build applications and organizations in which people spend time meaningfully and own the result of their work
+2. Acquire equity and tokenized equity in successful projects through investing, contributing and co-founding
 
-### Professional g**oals**
+### 1 year from now
 
-*To expedite and lead adoption of technology to enable decentralized algorithmic governance, finance, education and hiring, social networking.* 
+**Goal**: Started a decentralized digital identity protocol. It operates as a DAO and pursuing mission of enabling meaningful interactions between people and organizations via provable user-controlled pseudonymous reputation. 
 
-Relevant technologies: game theory, mechanism design, cryptography, blockchain, cryptocurrency, DAO & programmatic law, SSI and others that qualify:
+### 5 years
 
-1. Hight growth potential
-2. Significant barriers for entry / low competition
-3. Impactful (10x+ improvement)
-4. Clear monetization path
+**Goal**: Achieved 10M+ active protocol users while keeping it decentrally governed and open.
 
-Tools to achieve this goal: 
+### 10 years
 
-1. starting and running business (or network protocol)
-2. join exceptional team with shared vision
-3. investing in startups, people and scientific research
-4. advising
-5. sharing ideas and knowledge publicly and for free
+**Goal**: Investing and advising products and companies in web3. Achieved passive income / yield of at least $300k / year
 
-### **Priorities**
+### Lifelong **Priorities**
 
 1. **Improving domain knowledge**: learning technologies, management practices, product & engineering skills
 2. **Gaining resources to do that**: money, equity, cryptos
